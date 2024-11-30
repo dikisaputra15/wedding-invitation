@@ -2,11 +2,11 @@ export const data = {
   bride: {
     L: {
       id: 1,
-      name: "Diki Saputra, S.Kom",
+      name: "Diki Saputra, S.Kom.,MTI",
       child: "Putra ke 2",
       father: "Mistak",
       mother: "Rubiah",
-      image: "./src/assets/images/cowo.png",
+      image: "./src/assets/images/cowo.jpg",
     },
     P: {
       id: 2,
@@ -14,17 +14,17 @@ export const data = {
       child: "Putri ke 4",
       father: "Sudin (Alm)",
       mother: "Raspati",
-      image: "./src/assets/images/cewe.png",
+      image: "./src/assets/images/cewe.jpg",
     },
 
-    couple: "./src/assets/images/couple.png",
+    couple: "./src/assets/images/couple.jpg",
   },
 
   time: {
     marriage: {
       year: "2024",
-      month: "November",
-      date: "09",
+      month: "Desember",
+      date: "07",
       day: "Sabtu",
       hours: {
         start: "09.00",
@@ -33,43 +33,42 @@ export const data = {
     },
     reception: {
       year: "2024",
-      month: "November",
-      date: "09",
+      month: "Desember",
+      date: "07",
       day: "Sabtu",
       hours: {
         start: "09.00",
         finish: "Selesai",
       },
     },
-    address:
-      "Kp. Kembang RT 002 RW 006 Kelurahan Curug Kecamatan Curug Kota Serang - Banten",
+    address: "Kp. Pasir Menyan RT 009 RW 003 Desa Sukaratu Kecamatan Cikeusal",
   },
 
   link: {
-    calendar: "https://calendar.app.google/iRjLTPjBEDgw5wQH8",
-    map: "https://maps.app.goo.gl/3ntaRPpRBenruYcd7",
+    calendar: "https://calendar.app.google/McqTNbuheEgD4Vxp7",
+    map: "https://maps.app.goo.gl/w4sLcdJ5ykyZYoATA",
   },
 
   galeri: [
     {
       id: 1,
-      image: "./src/assets/images/1.png",
+      image: "./src/assets/images/1.jpg",
     },
     {
       id: 2,
-      image: "./src/assets/images/2.png",
+      image: "./src/assets/images/2.jpg",
     },
     {
       id: 3,
-      image: "./src/assets/images/3.png",
+      image: "./src/assets/images/3.jpg",
     },
     {
       id: 4,
-      image: "./src/assets/images/4.png",
+      image: "./src/assets/images/4.jpg",
     },
     {
       id: 5,
-      image: "./src/assets/images/5.png",
+      image: "./src/assets/images/5.jpg",
     },
   ],
 
